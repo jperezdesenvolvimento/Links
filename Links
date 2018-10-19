@@ -1,1 +1,3 @@
 Este link é um projeto do GitHub que é DDDCleanArchitecture -> https://github.com/ardalis/CleanArchitecture
+Este link é a implementação de DI no .NET CORE -> http://www.macoratti.net/17/04/aspcore_di1.htm
+Explicação da implementação da DI pela Microsoft -> https://docs.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection?view=aspnetcore-2.1#replacing-the-default-services-container
